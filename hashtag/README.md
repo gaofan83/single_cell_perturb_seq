@@ -1,4 +1,4 @@
-## This directory includes hashtag_tool executable to process single-cell hashtag data (tested on Ubuntu 18.04).
+### This directory includes hashtag_tool executable to process single-cell hashtag data (tested on Ubuntu 18.04).
 ###
 ### USAGE:
  hashtag_tool [OPTIONS] <br/>
