@@ -1,6 +1,6 @@
-### This directory includes hashtag_tool executable file to process single-cell hashtag data (tested on Ubuntu 18.04).
-####
-#### USAGE:
+## This directory includes hashtag_tool executable to process single-cell hashtag data (tested on Ubuntu 18.04).
+###
+### USAGE:
  hashtag_tool [OPTIONS] <br/>
 <br/>
  FLAGS: <br/>
@@ -17,6 +17,6 @@
         --umi_len <umi_len>            the length of UMI <br/>
 <br/>
  
-#### Quick start:
+### Quick start:
 `hashtag_tool --R1 R1.fastq --R2 R2.fastq --bc bc.txt --ft hash.txt --bc_len 16 --umi_len 12 --hashtag_len 15`
 
