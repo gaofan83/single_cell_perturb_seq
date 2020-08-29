@@ -10,4 +10,4 @@
 #### Directory contents 
 * [Hashtag pipeline](/hashtag): A folder with RUST excutable file.
 * [Guide RNA pipeline](/guide): A folder with RUST excutable file. 
-* [Benchmarking of guide RNA data]/benchmarking: A folder with benchmarking results.
+* [Benchmarking of guide RNA data]/(benchmarking): A folder with benchmarking results.
