@@ -4,3 +4,6 @@
 #### Based on 10XG bead chemistry, Capture1 (5'- GCTTTAAGGCCGGTCCTAGCAA -3') and Capture2 (5'- GCTCACCTATTAGCGGCTAAGG -3') sequences recognize expressed Guide1 and Guide2 RNA molecules that have reverse complement capture sequences inserted. Specifically, Capture1 and Capture2 sequences should pair with Guide1 and Guide2, respectively.
 #### From single-cell guideRNA data, UMI counts can be calculated for guide1 list of barcodes and guide2 list of barcodes. As note, **guiderna_tool** uses both capture sequences in R1 reads and template switching oligo sequence (TSO) in R2 read for read filtering and sorting; then potential protospacer sequences in R2 reads (after 5' TSO sequence) are mapped against the corresponding guide library (Guide1 or Guide2) for quantification. In contrast, **Cellranger** finds a constant region after protospacer region in R2 first, then potential protospacer sequences in R2 are quantified. Since **guiderna_tool** utilizes both R1 and R2 read information for filtering, it is likely to be more accurate. 
 
+### Figure 1, Correlation of Guide1 UMI counts from **guiderna_tool** and **Cellranger3**.
+![Figure 1](/benchmarking/figure1.png)
+####
