@@ -16,4 +16,4 @@
 <br/>
  
 ### Quick start:
-`~/tools/guiderna_tool --R1 SE6383_SA69723_S3_L006_R1_001.fastq --R2 SE6383_SA69723_S3_L006_R2_001.fastq --bc barcodes_perturb_guide.tsv --gd1 guides1.txt --gd2 guides2.txt`
+`guiderna_tool --R1 R1.fastq --R2 R2.fastq --bc barcodes_perturb.tsv --gd1 guides1.txt --gd2 guides2.txt`
