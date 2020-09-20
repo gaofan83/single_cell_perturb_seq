@@ -1,5 +1,7 @@
 ### This directory includes guiderna_tool executable to process single-cell dual-guide data (tested on Ubuntu 18.04).
 ###
+![Workflow](/bioinformatics_pipeline.png)
+
 ### USAGE:
  guiderna_tool [OPTIONS] <br/>
 <br/>
