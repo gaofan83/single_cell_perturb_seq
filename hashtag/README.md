@@ -20,4 +20,4 @@
 ### Quick start:
 `hashtag_tool --R1 R1.fastq --R2 R2.fastq --bc barcodes.txt --ft hashtag.txt --bc_len 16 --umi_len 12 --hashtag_len 15`
 
-##### The output file is called `ft_count.txt`
+##### The output matrix file is called `ft_count.txt`
