@@ -11,3 +11,12 @@
 * [Hashtag pipeline](/hashtag): A folder with RUST excutable file.
 * [Guide RNA pipeline](/guiderna): A folder with RUST excutable file. 
 * [Benchmarking of guide RNA data](/benchmarking): A folder with benchmarking results.
+
+#### Installation of `hashtag_tool` and `guiderna_tool`
+```
+git clone https://github.com/gaofan83/single_cell_perturb_seq
+chmod +x single_cell_perturb_seq/hashtag/hashtag_tool
+chmod +x single_cell_perturb_seq/guidedna/guiderna_tool
+sudo cp single_cell_perturb_seq/hashtag/hashtag_tool /usr/bin/
+sudo cp single_cell_perturb_seq/guidedna/guiderna_tool /usr/bin/
+```
