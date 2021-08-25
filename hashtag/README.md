@@ -20,4 +20,4 @@
 ### Quick start:
 `hashtag_tool --R1 R1.fastq --R2 R2.fastq --bc barcodes.txt --ft hashtag.txt --bc_len 16 --umi_len 12 --hashtag_len 15`
 
-### For raw data with 20 million reads, the processing time should be less than 1 minute, with an output file named `ft_count.txt`
+##### For raw data with 20 million reads, the processing time should be less than 1 minute, with an output file named `ft_count.txt`
