@@ -20,3 +20,6 @@ chmod +x single_cell_perturb_seq/guidedna/guiderna_tool
 sudo cp single_cell_perturb_seq/hashtag/hashtag_tool /usr/bin/
 sudo cp single_cell_perturb_seq/guidedna/guiderna_tool /usr/bin/
 ```
+
+### An online resource to understand the basics of 10X single-cell perturb-seq
+![Sarah Teichmann's group at EMBL-EBI / Wellcome Trust Sanger Institute](https://teichlab.github.io/scg_lib_structs/methods_html/10xChromium3fb.html)
