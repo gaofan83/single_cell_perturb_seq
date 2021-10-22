@@ -17,8 +17,8 @@
 git clone https://github.com/gaofan83/single_cell_perturb_seq
 chmod +x single_cell_perturb_seq/hashtag/hashtag_tool
 chmod +x single_cell_perturb_seq/guiderna/guiderna_tool
-sudo cp single_cell_perturb_seq/hashtag/hashtag_tool /usr/bin/
-sudo cp single_cell_perturb_seq/guiderna/guiderna_tool /usr/bin/
+export PATH=~/single_cell_perturb_seq/hashtag/:$PATH
+export PATH=~/single_cell_perturb_seq/guiderna/:$PATH
 ```
 
 ### An online resource to understand the basics of 10X single-cell perturb-seq
