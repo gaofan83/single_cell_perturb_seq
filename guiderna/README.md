@@ -51,5 +51,5 @@ single_cell_perturb_seq/guiderna/guiderna_tool --R1 SRR13587911_1.fastq --R2 SRR
 #### 6) Generate the binarized guide feature count matrices (only `ft_count_cap1_gd1_bin.txt` and `ft_count_cap2_gd2_bin.txt` will be generated) 
 `Rscript --vanilla single_cell_perturb_seq/guiderna/binarize_umi_count.R`
 #####
-##### Note: when integrating guide feature count matrices （with or w/o binarization step) with single-cell RNA-seq count matrices, remember to use `barcodes_perturb_guide_RNA_map.tsv` file to convert guide cell barcodes to RNA cell barcodes before the integration.
+##### Note: when integrating guide feature count matrices （with or w/o binarization) with single-cell RNA-seq count matrices, remember to use `barcodes_perturb_guide_RNA_map.tsv` file to convert guide cell barcodes to RNA cell barcode sequences before the integration.
                                      
