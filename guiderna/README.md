@@ -19,8 +19,8 @@
  
 #### Quick start:
 `guiderna_tool --R1 R1.fastq --R2 R2.fastq --bc barcodes_perturb.tsv --gd1 guides1.txt --gd2 guides2.txt`
- 
-#### A demo run
+##### 
+#### Demo run
 #### 1) Download a demo guide RNA data from GEO database
 `fastq-dump --split-files SRR13587911`
 #####
