@@ -29,7 +29,7 @@
 `gunzip 3M-february-2018.txt.gz`
 ##### Note, in `3M-february-2018.txt` file, Column-1 is Feature cell barcodes, Column-2 is RNA cell barcodes.
 #####
-#### 3) Download guides1.txt, guides2.txt, scrna_barcodes.tsv from `demo` folder.
+#### 3) Download guides1.txt, guides2.txt, scrna_barcodes.tsv from this directory https://github.com/gaofan83/single_cell_perturb_seq/tree/master/guiderna/demo.
 ##### scrna_barcodes.tsv includes a filtered list of mRNA cell barcodes from paired single-cell RNA-seq data (processed with Cellranger pipeline).
 #### 4) Run the following command lines in R console to convert RNA cell barcodes to Feature cell barcodes.
 ```
