@@ -48,4 +48,7 @@ write.table(table_sel, file="barcodes_perturb_guide_RNA_map.tsv", quote=F, row.n
 single_cell_perturb_seq/guiderna/guiderna_tool --R1 SRR13587911_1.fastq --R2 SRR13587911_2.fastq --bc barcodes_perturb_guide.tsv --gd1 guides1.txt --gd2 guides2.txt
 ```
 #####
-
+#### 6) Generate the binarized gRNA feature count matrices (only `ft_count_cap1_gd1_bin.txt` and `ft_count_cap2_gd2_bin.txt` are generated) 
+`Rscript --vanilla single_cell_perturb_seq/guiderna/binarize_umi_count.R`
+#####
+                                     
