@@ -1,3 +1,4 @@
+[![GitHub Downloads](https://img.shields.io/github/downloads/gaofan83/single_cell_perturb_seq/total.svg?style=social&logo=github&label=Download)](https://github.com/gaofan83/single_cell_perturb_seq/releases)
 
 # single-cell Perturb-Seq pipelines
 
