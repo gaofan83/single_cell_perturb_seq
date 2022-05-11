@@ -1,4 +1,4 @@
-<a id="raw-url" href="https://github.com/gaofan83/single_cell_perturb_seq/releases">Download FILE</a>
+<a id="raw-url" href="https://github.com/gaofan83/single_cell_perturb_seq/releases">Download</a>
 
 # single-cell Perturb-Seq pipelines
 
