@@ -1,5 +1,7 @@
-[![Download](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+[![GitHub Download](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)]
 (https://github.com/gaofan83/single_cell_perturb_seq/releases)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 
 # single-cell Perturb-Seq pipelines
 
