@@ -17,7 +17,8 @@
 #### Installation of `hashtag_tool` and `guiderna_tool`
 ```
 cd ~
-git clone https://github.com/gaofan83/single_cell_perturb_seq
+wget https://github.com/gaofan83/single_cell_perturb_seq/releases/download/v.1.0.0/v.1.0.0.tar.gz
+tar -xvzf v.1.0.0.tar.gz
 chmod +x single_cell_perturb_seq/hashtag/hashtag_tool
 chmod +x single_cell_perturb_seq/guiderna/guiderna_tool
 export PATH=~/single_cell_perturb_seq/hashtag/:$PATH
