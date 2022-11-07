@@ -25,5 +25,12 @@ export PATH=~/single_cell_perturb_seq/hashtag/:$PATH
 export PATH=~/single_cell_perturb_seq/guiderna/:$PATH
 ```
 
+#### Citation
+```
+Please cite the following paper when using this software:
+W Zhou, F Gao, M Romero-Wolf, S Jo, EV Rothenberg "Single-cell deletion analyses show control of pro–T cell developmental speed and pathways by Tcf7, Spi1, Gata3, Bcl11a, Erg, and Bcl11b." Science Immunology (2022)
+
+```
+
 ### An online resource to understand the basics of 10X single-cell perturb-seq
 [Sarah Teichmann's group at EMBL-EBI / Wellcome Trust Sanger Institute](https://teichlab.github.io/scg_lib_structs/methods_html/10xChromium3fb.html)
