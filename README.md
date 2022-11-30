@@ -10,8 +10,8 @@
 ![Workflow](/single_cell_perturb_seq.png)
 
 #### Directory contents 
-* [Hashtag pipeline](/hashtag): A folder with RUST excutable file.
-* [Guide RNA pipeline](/guiderna): A folder with RUST excutable file. 
+* [Hashtag pipeline](/hashtag): A folder with RUST executable file.
+* [Guide RNA pipeline](/guiderna): A folder with RUST executable file. 
 * [Benchmarking of guide RNA data](/benchmarking): A folder with benchmarking results.
 
 #### Installation of `hashtag_tool` and `guiderna_tool`
