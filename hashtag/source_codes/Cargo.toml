@@ -1,5 +1,5 @@
 [package]
-name = "guiderna_tool"
+name = "hashtag_tool"
 version = "0.1.0"
 authors = ["gaofan83 <gaofan83@hotmail.com>"]
 edition = "2018"
@@ -11,5 +11,4 @@ needletail = "^0.3.2"
 clap = "~2.33"
 csv = "1.1.3"
 itertools = "0.9.0"
-subprocess = "0.1.11"
 
